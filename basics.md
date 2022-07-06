@@ -3,7 +3,8 @@
 ## Navigation
 
 - Orbit
-  
+  ![orbit](https://streamable.com/3h4f9d#)
+
 - Zoom
   
 - Move
